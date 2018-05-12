@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2768
     wikipedia: http://en.wikipedia.org/wiki/M._R._James
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28187#The-Wanderings-and-Homes-of-ManuscriptsHelps-for-Students-of-History-No.-17.
 gutenberg_issued: '2009-02-25'
 gutenberg_type: Text
 identifiers:
